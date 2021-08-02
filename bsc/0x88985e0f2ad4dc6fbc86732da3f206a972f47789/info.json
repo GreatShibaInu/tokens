@@ -1,1 +1,11 @@
-
+{
+ "name": "Great Shiba Inu",
+ "website": "https://greatshibainu.website",
+ "description": "The Doge Family has been growing exponentially every day, many have failed but finally, the Great Shiba Inu has emerged!",
+ "explorer": "https://bscscan.com/token/0x88985e0f2ad4dc6fbc86732da3f206a972f47789",
+ "type": "BEP20",
+ "symbol": " GRSHB ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x88985e0f2ad4dc6fbc86732da3f206a972f47789"
+}
